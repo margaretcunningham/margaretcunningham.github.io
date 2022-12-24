@@ -3181,7 +3181,7 @@ input, select, textarea {
 					position: relative;
 					display: block;
 					margin: 0 auto;
-					max-width: 75%;
+					max-width: 100%;
 					animation-name: blink-float; /* delete the following to eliminate the animation */
 					animation-duration: 5s;
 					animation-iteration-count: infinite;
