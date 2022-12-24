@@ -16,7 +16,7 @@ augColors = ["#cc3300","#cc9900"]
 sepColors = ["#ff0066","#ffffff"]
 octColors = ["#0066cc","#ffffff"]
 novColors = ["#00cc99","#ccff66"]
-decColors = ["#ffffff","#ff0000"]
+decColors = ["#4169E1","#ff00ff"]
 colors = [janColors, febColors, marColors, aprColors, mayColors, junColors, julColors, augColors, sepColors, octColors, novColors, decColors];
 
 selColors = colors[date.getMonth()];
